@@ -1,4 +1,4 @@
-import { BrowserRouter } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 import { ThemeProvider } from 'styled-components'
 import { CartItemsContextProvider } from './contexts/CartItemsContext'
 import { Router } from './Router'
@@ -8,11 +8,11 @@ import { defaultTheme } from './styles/themes/default'
 export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
-      <BrowserRouter>
+      <HashRouter>
         <CartItemsContextProvider>
           <Router />
         </CartItemsContextProvider>
-      </BrowserRouter>
+      </HashRouter>
       <GlobalStyle />
     </ThemeProvider>
   )
