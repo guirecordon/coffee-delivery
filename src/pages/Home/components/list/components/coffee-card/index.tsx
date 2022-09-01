@@ -46,18 +46,6 @@ export function CoffeeCard({
   } = useContext(CartItemsContext)
   const quantity = getItemQuantity(id)
 
-  // const [itemQuantity, setItemQuantity] = useState(0)
-
-  // function onReduceCount() {
-  //   const newQuantity = handleReduceCount(itemQuantity)
-  //   setItemQuantity(newQuantity)
-  // }
-
-  // function onAddCount() {
-  //   const newQuantity = handleAddCount(itemQuantity)
-  //   setItemQuantity(newQuantity)
-  // }
-
   return (
     <CardContainer>
       <img src={imgURL} alt="" />
