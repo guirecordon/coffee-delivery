@@ -1,6 +1,7 @@
 import { Minus, Plus, ShoppingCart } from 'phosphor-react'
 import { useContext } from 'react'
 import { CartItemsContext } from '../../../../../../contexts/CartItemsContext'
+import img from '../../../../../../assets/imgs/americano.svg'
 import {
   CardContainer,
   Labels,
@@ -41,7 +42,7 @@ export function CoffeeCard({
 
   return (
     <CardContainer>
-      <img src={imgURL} alt="" />
+      <img src={img} alt="" />
       <LabelContainer>
         {labels.map((label) => (
           <Labels key={label}>{label}</Labels>
