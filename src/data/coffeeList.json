@@ -13,7 +13,7 @@
     "description": "Expresso diluído, menos intenso que o tradicional",
     "price": "9.90",
     "labels": ["tradicional"],
-    "imgURL": "/home/recordon/Documents/RocketSeat/ignite/projects/coffee-delivery/src/assets/imgs/americano.svg"
+    "imgURL": "src/assets/imgs/americano.svg"
   },
   {
     "id": 3,
