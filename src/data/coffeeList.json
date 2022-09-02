@@ -21,7 +21,7 @@
     "description": "Café expresso tradicional com espuma cremosa",
     "price": "9.90",
     "labels": ["tradicional"],
-    "imgURL": "src/assets/imgs/Type=Expresso Cremoso.svg"
+    "imgURL": "src/assets/imgs/Type=ExpressoCremoso.svg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "description": "Bebida preparada com café expresso e cubos de gelo",
     "price": "9.90",
     "labels": ["tradicional", "gelado"],
-    "imgURL": "src/assets/imgs/Type=Café Gelado.svg"
+    "imgURL": "src/assets/imgs/Type=CafeGelado.svg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "description": "Meio a meio de expresso tradicional com leite vaporizado",
     "price": "9.90",
     "labels": ["tradicional", "com leite"],
-    "imgURL": "src/assets/imgs/Type=Café com Leite.svg"
+    "imgURL": "src/assets/imgs/Type=CafecomLeite.svg"
   },
   {
     "id": 6,
@@ -77,7 +77,7 @@
     "description": "Bebida feita com chocolate dissolvido no leite quente e café",
     "price": "9.90",
     "labels": ["especial", "com leite"],
-    "imgURL": "src/assets/imgs/Type=Chocolate Quente.svg"
+    "imgURL": "src/assets/imgs/Type=ChocolateQuente.svg"
   },
   {
     "id": 11,
@@ -101,7 +101,7 @@
     "description": "Bebida preparada com grãos de café árabe e especiarias",
     "price": "9.90",
     "labels": ["especial"],
-    "imgURL": "src/assets/imgs/Type=Árabe.svg"
+    "imgURL": "src/assets/imgs/Type=Arabe.svg"
   },
   {
     "id": 14,
@@ -109,6 +109,6 @@
     "description": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
     "price": "9.90",
     "labels": ["especial", "alcoólico"],
-    "imgURL": "src/assets/imgs/Type=Irlandês.svg"
+    "imgURL": "src/assets/imgs/Type=Irlandes.svg"
   }
 ]
