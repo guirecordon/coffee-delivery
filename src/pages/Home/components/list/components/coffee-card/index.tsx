@@ -41,7 +41,7 @@ export function CoffeeCard({
 
   return (
     <CardContainer>
-      <img src={'../../../../../../assets/imgs/americano.svg'} alt="" />
+      <img src={imgURL} alt="" />
       <LabelContainer>
         {labels.map((label) => (
           <Labels key={label}>{label}</Labels>
