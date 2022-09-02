@@ -21,13 +21,6 @@ interface CoffeeListProps {
   price: string
   labels: string[]
   imgURL: string
-  // onAddOrder: (
-  //   id: number,
-  //   quantity: number,
-  //   title: string,
-  //   imgURL: string,
-  //   price: string,
-  // ) => void
 }
 
 export function CoffeeCard({
