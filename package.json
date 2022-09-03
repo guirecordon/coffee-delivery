@@ -1,5 +1,6 @@
 {
   "name": "02-coffee-delivery",
+  "homepage": "https://guirecordon.github.io/coffee-delivery",
   "private": true,
   "version": "0.0.0",
   "type": "module",
