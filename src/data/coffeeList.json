@@ -21,7 +21,7 @@
     "description": "Café expresso tradicional com espuma cremosa",
     "price": "9.90",
     "labels": ["tradicional"],
-    "imgURL": "imgs/expressoCremoso.svg"
+    "imgURL": "imgs/expressocremoso.svg"
   },
   {
     "id": 4,
